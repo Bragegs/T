@@ -1,4 +1,4 @@
-# TimeWeekAgo
+# TimeWeekAgoSwift
 
 This swift class gives you a function that compares 2 NSDates and gives you:  
 xs  (if there is two seconds between the dates: 2s)  
