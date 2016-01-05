@@ -12,5 +12,5 @@ weeks is the highest component, so after 2 years it will be 104w.
 
 Add Time.swift into your project  
 
-let dateString = Time.getTime(NSDate(), toDate: theDateYouWantToCompareWith)
+let dateString = Time.getTime(NSDate(), toDate: PastCompareDate)
 
