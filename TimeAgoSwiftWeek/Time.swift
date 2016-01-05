@@ -1,11 +1,3 @@
-//
-//  Time.swift
-//  HuGo
-//
-//  Created by Brage Staven on 21.12.2015.
-//  Copyright © 2015 Stav1. All rights reserved.
-//
-
 import UIKit
 
 
